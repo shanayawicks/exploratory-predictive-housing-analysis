@@ -2,7 +2,7 @@
 
 This project explores housing data from Cook County, Illinois, through two phases of analysis: an exploratory phase and a predictive modeling phase. The goal is to better understand patterns in the dataset and build a predictive model for housing values using linear regression techniques.
 
-## 📂 Project Structure
+## Project Structure
 
 ### Project A1: Exploratory Data Analysis (EDA)
 - Cleaned and prepared a large housing dataset
